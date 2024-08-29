@@ -1,0 +1,13 @@
+Descriptive Statistics
+    These help us to perform different calculations on the datasets we have
+    It is a vital process of analysing data 
+
+Why descritive statistics?
+-Helps in summarizing data 
+        Through measures of central tendacy
+-Helps in data exploration
+        Identify outliers,patterns
+        Investigate data
+        Helps with data cleaning
+Helps in data visualisation
+
