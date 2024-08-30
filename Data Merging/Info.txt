@@ -1,0 +1,25 @@
+JOINS
+In most cases, we have data in two databases. But we need to show it one document for proper organisation and easy analysis 
+
+This can be achieved using joins. There are various types of joins which include: left,right,left-anti,right-anti and inner joins.
+
+Note:
+    Both tables have to have a common identifier 
+
+Inner Join 
+    Returns the matching columns between the two tables basing on the identifier
+
+Left Join
+    Returns all the columns in the left table and the matching rows from the right table basing on the identifier.
+
+Right Join
+    Returns all the columns in the right table and the matching rows in the left table basing on the identifier.
+
+Left-Anti join
+    -Returns all the columns from the left table that do not have a match in the right table
+    -Contents of only the left table 
+
+Right-Anti join 
+    -Returns all the columns from the right table that do not have a match in the left table.
+    -Contents of the right table only.
+
