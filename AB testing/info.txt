@@ -52,3 +52,64 @@ Engagement Primary Metric
 
 CTR = (Number of clicks / Number of impressions) x 100%
 
+Statistical Hypothesis 
+-Statistical procedure that is used to determine whether there is a significant difference between the observed and expected data.
+     Used to test results of an experiment 
+     Used to establishh the ststistical significance  
+
+We can put the hypothesis subject to reject under Null Hyptheseis(H0)
+We can also put the hypothesis subject to acceptance under Alternative Hypothesis(H1)
+
+
+
+A/B TEST DESIGN
+-It involves 3 stages namely:
+    Power Analysis 
+    Mininum Sample Size
+    Test Duration
+
+Power Analysis -
+-this involves the following:
+    Making assumptions aboout modal parameters that include:
+        power of the test
+        significance level
+
+Then we can use the parameters in the power test to calculate mininum sample size for the control and experimental groups - Stage2
+
+Stage3 - decidiing the test duration basing on a variety of factors
+
+More Details
+Power Analysis
+1. Determine Power of the test
+    Power is the probability of correctly rejecting the Null
+hypothesis  
+    probability of not making a type II error.(1-B)
+    where B:type II error
+    common to pick 80% as power of the A/B test
+    null is false
+
+2. Determine Significance level of the test
+    probability of rejecting the null, while null is true
+    detecting statistical significance while it is not
+    probability of making a type I error(a)
+    common to pick 5% as significance level of the test
+
+3. Determine the Minimum Detectable Effect of the test
+    What is the substantive to the ststistical significance for the business?
+    Proxy that relates tothe smallest effect that would matter in practice 
+    No common level - the common level depends on the business ask
+    -Normally set by stakeholders
+
+Formulars 
+B: probability of type II error
+(1-B):Power of the test
+a: Probability of Type I error, Significance level
+d: Mininum Detectable Effect(MDE)
+
+Calculating Min Sample Size
+- It is done before running the test to prevent p-hacking 
+- It depends on the primary metric to track both groups experimental and control 
+The primary metric can be in different forms:
+    in the from of a binary variable
+    in the form of proportions or avaerages
+     
