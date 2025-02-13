@@ -27,4 +27,28 @@ Primary Metric
     A way to measure the performance of the product being tested 
 in the A/B test for the experimental and control groups. It will be used to identify whether there is a statistical significant difference between the two groups. 
     It should be one primary metric 
-    
+    answering metric Validity Question
+
+
+Choosing Primary Metric 
+Metric Validity Question: If this chosen metric were to increase significantly while everything stays constant, would you achieve your goal and address the problem?
+    higher revenue
+    higher engagement?
+    more views?
+
+Revenue Primary Metric
+ Coversion rate - Used to measure the effeciveness of a website
+product or marketing compaign
+-It calculate the percentage of the number of people visiting the website, making an online purchase, filling out the e-forms
+
+Formular = (Number of conversions/Number of visitors) x 100% 
+
+-helps to measure effectivess of a website, product or marketing compaign.
+-Helps to identify areas that need improvement hence improving user experience.   
+  
+Engagement Primary Metric
+    Click Through Rate(CTR) - Used to measure the effectiveness of a digital marketing compaign or digital User management, a feature or product on the website
+(especially in cases of ecommerce)
+
+CTR = (Number of clicks / Number of impressions) x 100%
+
