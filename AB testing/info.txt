@@ -1,0 +1,30 @@
+AB testing 
+-It helps evaluating changes or improvements in products or services
+- It allows one to make data driven decisions by comparing two different versions of a product or service in a process called treatment/control
+
+A/B Test Basics
+A/B testing or split testing originated from the statistical randomised control trials
+-Is one of the most popular ways for Business to test:
+    new UX features
+    new versions of a product
+    new versions of an algorithm
+
+A/B testing processes
+    1. Hypothesis Of A/B test
+    2. A/B Test design | Power Analysis 
+    3. Run the A/B Test
+    4. Result Analysis | Statistical Significance
+    5. Result Analysis | Pratical Significance 
+
+Hypothesis | Primary metric
+    Business Hypothesis describes what two products are being
+compared and what is the desired impact or difference for the business.
+    It highlights the following:
+    -how to fix a potential issue in the product
+    -a solution that will influence the Key Performance Indicators (KPIs)
+
+Primary Metric 
+    A way to measure the performance of the product being tested 
+in the A/B test for the experimental and control groups. It will be used to identify whether there is a statistical significant difference between the two groups. 
+    It should be one primary metric 
+    
